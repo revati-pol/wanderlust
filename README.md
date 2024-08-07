@@ -1,1 +1,1 @@
-This is our major project - wanderlust.
+This is a full stack web development project - wanderlust.
